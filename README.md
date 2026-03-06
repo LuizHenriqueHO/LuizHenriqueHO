@@ -8,7 +8,8 @@
       <i class="devicon-javascript-plain"></i>
       <i class="devicon-html5-plain"></i>
       <i class="devicon-css3-plain"></i>
-      <i class="devicon-mysql-original"></i>
+      <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </div>
 
   
