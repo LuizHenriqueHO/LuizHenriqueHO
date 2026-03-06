@@ -2,6 +2,7 @@
 
 
 
+# 👨🏼‍💻 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
       <img  align="center" alt="Luiz-J" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
       <img align="center" alt="Luiz-Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
