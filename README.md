@@ -1,8 +1,8 @@
 # Desenvolvedor web! 👨🏼‍💻
 
-Olá, meu nome é Luiz Henrique, Tenho 19 anos e moro em Belo Horizonte, MG.
+**Olá, meu nome é Luiz Henrique, Tenho 19 anos e moro em Belo Horizonte, MG.
 Atualmente estou no 3º período de Engenharia de Software na Puc Minas,
-sou apaixonado por tecnologia e estou sempre em busca pelo aprendizado e evolução!
+sou apaixonado por tecnologia e estou sempre em busca pelo aprendizado e evolução!**
 <div style="display: inline_block"><br>
       <a href="https://www.instagram.com/_luizhorta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href = "mailto:lu.luizhenriqueHO@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
