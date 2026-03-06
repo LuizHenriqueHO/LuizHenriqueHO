@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá, eu sou o Luiz Henrique, desenvolvedor web!
 
-<!--
-**LuizHenriqueHO/LuizHenriqueHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block>
+      <i class="devicon-java-plain-wordmark"></i>
+      <i class="devicon-python-plain"></i>
+      <i class="devicon-javascript-plain"></i>
+      <i class="devicon-html5-plain"></i>
+      <i class="devicon-css3-plain"></i>
+      <i class="devicon-mysql-original"></i>
+</div>
+
+  
+          
+
