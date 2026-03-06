@@ -1,6 +1,8 @@
-# Olá, eu sou o Luiz Henrique, desenvolvedor web! 👨🏼‍💻
+# Desenvolvedor web! 👨🏼‍💻
 
-
+Olá, meu nome é Luiz Henrique, Tenho 19 anos e mora em Belo Horizonte, MG.
+Atualmente estou no 3º período de Engenharia de Software na Puc Minas,
+sou apaixonado por tecnologia e estou sempre em busca da evolução!
 
 ## Linguagens e Tecnologias
 <div style="display: inline_block"><br>
