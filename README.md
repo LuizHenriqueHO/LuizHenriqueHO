@@ -19,6 +19,7 @@ sou apaixonado por tecnologia e estou sempre em busca pelo aprendizado e evoluç
       <img align="center" alt="Luiz-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />     
 </div>
 
+#
 <div>
       <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizHenriqueHO/LuizHenriqueHO/output/github-contribution-grid-snake-dark.svg">
